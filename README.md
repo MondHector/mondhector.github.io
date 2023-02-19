@@ -5,6 +5,6 @@ En esta página web subo mis códigos
 
 ## Modelos logit
 
-### prueba [link](mondhector.github.io/prueba)
+### prueba [link](prueba)
 
 Prueba 
