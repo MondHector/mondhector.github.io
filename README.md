@@ -9,7 +9,7 @@ En esta página web subo mis códigos
 
 Prueba 
 
-### Examen de candidatura [link](candidatura)
+### Examen de candidatura [link](candidatura/Codigo20230619.html)
 
 Candidatura
 
