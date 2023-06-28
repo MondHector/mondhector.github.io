@@ -3,18 +3,7 @@ En esta página web subo mis códigos
 
 ## Bienvenidos
 
-## Modelos logit
-
-### prueba [link](prueba)
-
-Prueba 
-
-### Examen de candidatura [link](candidatura)
-
-Candidatura
-
-### Examen candidatura [link](ExamenCandidatura)
-
-## examen [link](Exacandidatura)
+### Modelos logit [link](prueba)
+### Examen Candidatura [link](Exacandidatura)
 
 
