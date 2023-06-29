@@ -4,5 +4,3 @@ En esta página web subo mis códigos
 ## Bienvenidos
 
 ### Modelos logit [link](prueba)
-### candidatura [link](neww)
-
