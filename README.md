@@ -5,6 +5,7 @@ En esta página web subo mis códigos
 
 ### Modelos logit [link](prueba)
 
-### Prueba [link](trial)
+### Prueba [link](nuevo1)
+
 
 
