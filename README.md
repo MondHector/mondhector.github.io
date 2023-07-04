@@ -5,7 +5,7 @@ En esta página web subo mis códigos
 
 ### Modelos logit [link](prueba)
 
-### Prueba [link](nuevo1)
+### Examen de candidatura [link](candidatura)
 
 
 
