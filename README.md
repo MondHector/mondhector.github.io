@@ -4,7 +4,7 @@
 
 ### Examen de candidatura [link](candidatura)
 
-### Presentación Multinacionales[link](multinacionales
+### Presentación Multinacionales[link](multinacionales]
 
 
 
