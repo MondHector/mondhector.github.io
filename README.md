@@ -17,11 +17,12 @@ Estudio exploratorio sobre la violencia homicida con enfoque en poblaciones vuln
 * **Hallazgo clave:** Identificación de tendencias al alza en violencia contra poblaciones indígenas en el sur del país durante los últimos dos años.
 
 
-### 🎓 Presentaciones Académicas con Reveal JS
+### Presentaciones Académicas con Reveal JS
 * [Examen de Candidatura (Revealjs)](https://mondhector.github.io/candidatura/) - Defensa de propuesta de investigación.
-* [Análisis de Multinacionales](https://mondhector.github.io/multinacionales/) - Exposición sobre flujos económicos. 
----
-📫 **Contacto:** [hector.mondragon@gmail.com]
+* [Análisis de Multinacionales](https://mondhector.github.io/multinacionales/) - Exposición sobre flujos económicos.
+   
+
+### Contacto: [hector.mondragon@gmail.com]
 
 
 
