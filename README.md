@@ -10,15 +10,17 @@
 
 ## Proyectos
 
+### Análisis en Python [Rule of Law y globalización](https://mondhector.github.io/rule-of-law-globalization/)
+Estudio exploratorio sobre la relación entre Globalización y Estado de derecho en América Latina (2019-2023)
+* **Habilidades**Sincronización de bases de datos temporales desfasadas, visualización interactiva multivariable (Plotly), manejo de entornos virtuales y análisis de series de tiempo institucionales.
+* **Herramientas** Python (Pandas), Quarto, Seaborn y Plotly (gráficos interactivos).
+* **Hallazgo clave** El efecto del TMEC en México permite mayor acceso a la globalización a pesar de la calidad institucional.
+
 ### Análisis en R [Homicidios2024](https://mondhector.github.io/homicidios2024/analisis_homicidios.html) 
 Estudio exploratorio sobre la violencia homicida con enfoque en poblaciones vulnerables (indígenas, afromexicanas y migrantes).
 * **Habilidades:** Limpieza de microdatos (INEGI), visualización avanzada con `ggplot2`, series de tiempo y análisis territorial.
 * **Herramientas:** R, Quarto, Tidyverse.
 * **Hallazgo clave:** Identificación de tendencias al alza en violencia contra poblaciones indígenas en el sur del país durante los últimos dos años.
-
-### Análisis en Python [Rule of Law y globalización](https://github.com/MondHector/rule-of-law-globalization.html)
-
-
 
 ### Presentaciones Académicas con Reveal JS
 * [Examen de Candidatura (Revealjs)](https://mondhector.github.io/candidatura/) - Defensa de propuesta de investigación.
