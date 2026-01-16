@@ -16,6 +16,9 @@ Estudio exploratorio sobre la violencia homicida con enfoque en poblaciones vuln
 * **Herramientas:** R, Quarto, Tidyverse.
 * **Hallazgo clave:** Identificación de tendencias al alza en violencia contra poblaciones indígenas en el sur del país durante los últimos dos años.
 
+### Análisis en Python [Rule of Law y globalización](https://github.com/MondHector/rule-of-law-globalization.html)
+
+
 
 ### Presentaciones Académicas con Reveal JS
 * [Examen de Candidatura (Revealjs)](https://mondhector.github.io/candidatura/) - Defensa de propuesta de investigación.
