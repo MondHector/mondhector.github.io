@@ -1,28 +1,31 @@
 title: "Héctor Mondragón"
-subtitle: "Political Science & Data Analysis"
+subtitle: "Political Science & Behavioral Data Analysis"
 name: "Héctor Mondragón"
-description: "Sitio personal, publicaciones y proyectos de análisis de datos."
-url: "https://MondHector.github.io"
+description: "Personal academic website, research papers, and data science projects."
+url: "https://mondhector.github.io"
 
-# Tema nativo soportado por GitHub Pages
+# Minimal Mistakes configuration
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "default"
+minimal_mistakes_skin: "air" # "air" usa un estilo nórdico limpio con acentos en azul claro
 
 plugins:
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-feed
-  - jekyll-include-cache
   - jekyll-remote-theme
 
+# Profile details
 author:
   name: "Héctor Mondragón"
-  bio: "Doctoral candidate in Political Science. Researching political psychology, ideology & data modeling."
+  avatar: "/assets/images/bio-photo.jpg" # (Opcional) Puedes agregar tu foto en esta ruta después
+  bio: "PhD Candidate in Political Science. Researching political psychology, ideology, social identity, and quantitative methods."
   location: "Mexico City"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/MondHector"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:hector.mondragon@gmail.com"
 
 defaults:
   - scope:

@@ -1,0 +1,7 @@
+main:
+  - title: "About"
+    url: /
+  - title: "Research & Working Papers"
+    url: /research/
+  - title: "Data Science & Code"
+    url: /projects/
