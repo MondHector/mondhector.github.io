@@ -6,7 +6,7 @@ url: "https://mondhector.github.io"
 
 # Minimal Mistakes configuration
 remote_theme: "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "air" # "air" usa un estilo nórdico limpio con acentos en azul claro
+minimal_mistakes_skin: "air" 
 
 plugins:
   - jekyll-feed
@@ -16,7 +16,7 @@ plugins:
 # Profile details
 author:
   name: "Héctor Mondragón"
-  avatar: "/assets/images/bio-photo.jpg" # (Opcional) Puedes agregar tu foto en esta ruta después
+  #avatar: "/assets/images/bio-photo.jpg" # (Opcional) Puedes agregar tu foto en esta ruta después
   bio: "PhD Candidate in Political Science. Researching political psychology, ideology, social identity, and quantitative methods."
   location: "Mexico City"
   links:
