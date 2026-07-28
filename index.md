@@ -4,9 +4,9 @@ author_profile: true
 title: "Héctor Mondragón"
 ---
 
-I am a PhD Candidate in Political Science at CIDE and a Data Analysis at the National Electoral Institute (INE) in Mexico.
+I am a PhD Candidate in Political Science at CIDE and a Data Analyst at the National Electoral Institute (INE) in Mexico.
 
-My profile bridges **academic research** and **applied data analysis**. I combine doctoral training in Political Science with a legal background in International Trade Law to analyze institutional risk, ESG factors, public opinion, and migration in Latin America.
+My profile bridges **academic research** and **applied data analysis**. I combine doctoral training in Political Science with a legal background in International Trade Law to analyze public opinion, institutional risk, and migration in Latin America.
 
 Using statistical modeling, econometrics, and survey microdata processing (Python, R, and SQL), I generate analytical insights for academic outlets, consulting, and policy advisory.
 
@@ -23,7 +23,7 @@ Using statistical modeling, econometrics, and survey microdata processing (Pytho
 ## Technical Stack
 
 * **Programming & Visualization:** Python (Pandas, Seaborn, Plotly), R (Tidyverse, Quarto, Shiny), SQL, Reveal.js
-* **Methods:** Microdata Processing, Survival Analysis, Regression Diagnostics, Spatial & Territorial Analysis
+* **Methods:** Microdata Processing, Survival Analysis, Hierarchical models, Spatial & Territorial Analysis
 * **Workflow & Version Control:** Git & GitHub, Virtual Environments, Markdown/LaTeX
 
 ---
