@@ -11,7 +11,7 @@ My research explores the intersection of political psychology, ideology, and ins
 
 ## Working Papers & Dissertation Chapters
 
-### 📄 Héctor Mondragón. Generalized Trust and Immigration Attitudes: The Moderating Role of Deliberative Engagement. Evidence from Latin America, 07 July 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-9817990/v1]
+### 📄 Héctor Mondragón. Generalized Trust and Immigration Attitudes: The Moderating Role of Deliberative Engagement. Evidence from Latin America, 07 July 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-9817990/v1](https://doi.org/10.21203/rs.3.rs-9817990/v1)
 *(Under Revision)*  
 Generalized trust significantly improves positive attitudes toward migration across LATAM, but primarily when mediated by community participation and political discussion. Civic cooperation reinforces generalized trust, fostering a deeper understanding of complex social issues.
 
